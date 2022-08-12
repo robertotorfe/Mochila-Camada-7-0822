@@ -1,0 +1,8 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Git es un sistema de control de versiones que nació un poco por casualidad y tiene un origen que resulta curioso.
+
+Linux tenía un gestor de paquetes que pasó a ser de pago, por lo que el desarrollador principal de Linux decidió crear un nuevo gestor de control de versiones para su sistema, y que diera soporte a su core. De esta forma nació Git.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
