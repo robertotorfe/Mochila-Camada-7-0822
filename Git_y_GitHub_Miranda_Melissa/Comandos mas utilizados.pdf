@@ -1,0 +1,12 @@
+Comandos mas utilizados 
+ls: listar archivos y carpetas
+mkdir: crear carpeta
+touch: crear archivo 
+cd .. volver hacia la carpeta anterior 
+cp: copiar archivo/carpeta
+
+git help: ayuda
+git commit: commitear un archivo/carpeta
+git add .: prepara los archivos a commitear
+git push origin (main/ramas): sube los commits al repositorio remoto
+git pull: descarga los ultimos cambios en la rama
