@@ -1,0 +1,8 @@
+a. el sistema de versionado Git fue creado por Linus Torvalds
+pensando principalmente en la eficiencia, confiabilidad, y compatibilidad del mantenimiento de 
+versiones de aplicaciones cuando estas tienen un gran numero de archivos de codigo de fuente
+
+b. Github pertenece a Microsoft ya que esta busca enfocarse todo lo posible 
+al desarrollo, resaltando que el núcleo de la empresa lo forman los desarrolladores nada mas 
+
+c. La mejor manera es con lineas de comando 
