@@ -1,0 +1,20 @@
+COMENZAR
+git init: Crear un repositorio de Git vac'io o reinicia el que ya existe
+git clone: Clonar un repositorio dentro de un nuevo directorio
+
+TRABAJAR EN CAMBIOS ACTUALES
+git add . : Agregar contenido de archivos al 'indice
+
+EXAMINAR HISTORIAL
+git log: Mostrar los logs de los commits
+git status: Mostrar el estado del 'arbol de trabajo
+
+CREAR
+git branch: Listar, crear, o borrar ramas
+git branch "nombre de la rama": moverse a la rama indicada
+git merge: Juntar dos o m'as historiales de desarrollo juntos
+git commit -m "Mensaje":Grabar los cambios al repositorio
+
+COLABORAR
+git push: Actualizar referencias remotas junto con sus objetos asociados
+git pull: Realizar un fetch e integra con otro repositorio o rama local
