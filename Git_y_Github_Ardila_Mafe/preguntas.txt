@@ -13,3 +13,5 @@ como iOS, Android y (por supuesto) Windows. Y es, precisamente, el que fuera CEO
 Así pues, esta adquisición es, sin duda, un acercamiento a la comunidad más vibrante en el desarrollo de software libre y abierto
 
 ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Sí, existen interfaces gráficas por medio de las cuales se puede trabajar en Githib, 
+como la aplicación de escrito de Github o GitKraken
