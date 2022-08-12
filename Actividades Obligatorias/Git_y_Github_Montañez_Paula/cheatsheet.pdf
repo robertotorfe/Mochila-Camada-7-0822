@@ -1,0 +1,51 @@
+1) para saber cual es mi ubicación
+	$ pwd		
+2) listar archivos en el directorio o carpeta 
+	$ ls 
+3) listar todos los archivos incluyendo los ocultos
+	$ ls -a
+4) Crea un nuevo directorio o carpeta 
+	$ mkdir (nombre) 
+5) crear un nuevo archivo 
+	$ touch (nombre del archivo)
+6) elimina un archivo  
+	rm (nombre del archivo)
+7) elimina una carpeta vacia 
+	$ rmdir (nombre de la carpeta)
+8) elimina una carpeta y su contenido 
+	$ rm -r (nombre de la carpeta)
+9) renombra archivos 
+	$ mv (ruta/Archivo1 ruta/archivo2)
+10) copiar un archivo o carpeta 
+	$ cp (ruta/archivo1)
+11) limpiar la pantalla de mi terminal 
+	$ clear
+12) subir un nivel de carpeta 
+	$ cd ..
+13) cambiar de carpeta 
+	$ cd nombredecarpeta
+14) iniciar repositorio local 
+	$ git init 
+15) agregar mi nombre de usuario 
+	$ git config user.name "mi usuario
+16) agregar mi emil 
+	$ git config user.email "email"
+17) agregar las modificaciones realizadas a los archivos 
+	$ git commit -m "mensaje"
+18) añadir todos archivos al repositorio
+	$git add .
+19) conocer los archivos en mi repositorio 
+	$ git status
+20) subir los archivos de mi repositorio local al remoto 
+	$ git push origin main 
+21) bajar a mi repositorio local los archivos modificados 
+	$ git pull origin main 
+22) crear una nueva rama
+	$ git branch nombrerama
+23) clonar un repositorio 
+	$ git clone URLrepositorio 
+24) cambiar de rama 
+	$ git checkout nombrerama 
+ 
+
+
