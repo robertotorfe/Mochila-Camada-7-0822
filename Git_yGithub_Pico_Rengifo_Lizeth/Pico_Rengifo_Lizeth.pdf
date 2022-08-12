@@ -1,0 +1,17 @@
+Comandos utilizados
+
+1. git init > Para crear el repositorio
+2. git add . > Para agrefgar todos los archivos
+3. git commit -m "mensaje" > Para commitear los cambios hechos
+4. git push origin main > Para enviar los cambios al repositorio remoto
+5. git status > Para realizar un seguimiento de los estados de los archivos
+6. git pull origin main > Para descargar los cambios que existen en el repositorio remoto
+7. git branch > Para crear una rama
+8. git checkout "nombrerama" > Para cambiar a la rama creada
+
+Otros comandos
+
+1. touch > Para crear archivos
+2. mkdir > Para crear directorios
+3. nano > Para editar archivos
+ 
