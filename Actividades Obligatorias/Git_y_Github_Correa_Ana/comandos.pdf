@@ -1,0 +1,10 @@
+Git init para inicializar un repositorio
+Git add  para adicionar archivos
+Git commit –m  para guardar los archivos y hacer una versión en ese punto
+Git log – me muestra todos los commit que hice
+Git add . – para adicionar todo lo que esta en el directorio (con punto)
+Git remote add origin  + url del repositorio en git hub
+Git remote –v para ver que haya quedado bien
+Git push origin master para empujar los archivos comiteados a github
+Git clone + url donde están los archivos, crear una copia exacta de un repositorio
+Git pull se usa para actualizar los archivos que ya tenía en ese equipo 
