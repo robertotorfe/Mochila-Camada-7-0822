@@ -1,0 +1,8 @@
+ls: Lista archivos en el directorio o carpeta
+mkdir:  Crea una nueva directorio o carpeta
+touch: Crea un nuevo archivo
+
+git config --global user.name "lherrer5": Configurar Nombre que salen en los commits
+git config --global user.email lina_h64@hotmail.com : Configurar Email
+git init:
+	
