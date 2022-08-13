@@ -1,0 +1,17 @@
+PREGUNTAS:
+
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+    "Como muchas de las grandes cosas en esta vida, Git comenzó con un poco de destrucción creativa y una gran polémica."
+    Git nació en 2005, Linus Torvalds (el creador de Linux) lo diseñó para controlar el desarrollo del kernel de Linux y 
+    con el propósito de llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que 
+    varias personas realizan sobre archivos compartidos en un repositorio de código. (Tomado de documentacion de git y Wikipedia)
+
+b. ¿A quién pertenece actualmente Github y por qué?
+    Microsoft compró Github el 4 de junio de 2018 por 7.500 millones de dolares. Microsoft lo compró para adoptar una estrategia mucho más 
+    abierta al mundo del software libre y a la integración con otras plataformas y servicios. Además, Microsoft tiene que competir con AWS 
+    y qué mejor forma de hacerlo que estar en contacto directo con los desarrolladores que trabajan en esos servicios, ver sus necesidades 
+    y ofrecerles herramientas que faciliten su integración con Azure. (Tomado de naukas.com)
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+    Si, GitHub Desktop se usa para crear y administrar un repositorio de Git sin utilizar la línea de comandos.
+    (Tomado de GitHub Docs)
