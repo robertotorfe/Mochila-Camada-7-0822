@@ -8,6 +8,7 @@ Comandos utilizados
 6. git pull origin main > Para descargar los cambios que existen en el repositorio remoto
 7. git branch > Para crear una rama
 8. git checkout "nombrerama" > Para cambiar a la rama creada
+9. git log > Para ver ver el historial de los commit
 
 Otros comandos
 
