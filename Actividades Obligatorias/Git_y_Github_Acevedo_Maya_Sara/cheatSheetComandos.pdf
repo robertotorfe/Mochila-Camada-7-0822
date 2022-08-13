@@ -1,0 +1,43 @@
+- git branch →Enumera todas las ramas de tu repositorio, es similar a git branch --list.
+- git branch <branch> → Crea una nueva rama llamada <branch>.
+- git branch -d <branch> → Elimina la rama llamada <branch>. Git evita que eliminemos la rama si tiene cambios que aún no se han fusionado con la rama Main.
+- git branch -D <branch> → Fuerza la eliminación de la rama especificada, incluso si tiene cambios sin fusionar.
+- git checkout nombre_rama → Para moverse de una rama a otra
+- git checkout -b nombre_rama → Para crear y moverse a esa rama
+-git remote -v → para verificar que todo haya quedado bien 
+1. git add → Agregal el o los archivos
+2. git add . → Agrega todos los archivos
+3. git status → El status de los archivos respecto al repositorio (si están en seguimiento(están added) o no)
+4. Si modificamos un archivo que ya está added git lo sacará de nuevo y habría que volverlo a agregar
+5. git log → Historial de nuestros cambios en proyectos que muestra fecha,autor y mensaje de los commits
+3. **git config [user.name](http://user.name) “nombre de usuario” →** Para identificarnos 1/2 localmente
+**git config —global [user.name](http://user.name) “nombre de usuario” →** Para tooodos los repos locales que cree esta computadora
+4. **git config [user.email](http://user.email) “correo@ejemplo.com” →** Para identificarnos 2/2 localmente
+**git config —global [user.email](http://user.email) “correo@ejemplo.com” →** Para tooodos los repos locales que cree esta computadora
+- pwd → (print work directory): mirar en que carpeta (o directorio) estamos en la carpeta
+- gedit → para crear y editar archivos de texto
+- mkdir “nombre de carpeta” →Crear carpeta
+- mkdir 1 “2” 3_4 → Crea estas tres carpetas (para crear varias carpetas se separan los nombres con espacios)
+- mkdir /ruta/ruta/ruta/”nombre de carpeta” → Crea carpeta dentro de una ruta
+- mkdir ./nombre_de_carpeta/”nombre de carpeta interna” → Crear carpeta dentro de una ruta 2 (ruta relativa)
+- touch ../”Nombre de carpeta anterior”/”nombre de archivo a crear” → Crear un archivo en carpetas padres
+- ls -t → Lista de archivos ordenados por fecha de modificación
+- cd “nombre de la carpeta”→ entra en la carpeta que digamosvera
+- cd .. → Se devuelve a una carpeta anterior
+- touch “nombre del archivo” → Nos crea cualquier tipo de archivo vacio
+- nano “nombre del archivo” → Nos permite edita el archivo( sólo sirve en archivo de texto)
+- ls → Listar el contenido de las carpetas
+- ls -R → muestra de forma dinámica el contenido de las carpetas
+- cp <origen> <destino> ——> ponemos el archivo que copiamos, seguido de la ruta donde lo vamos a pegar
+- cp <origen> <destino>/”nuevo nombre” ——> ponemos el archivo que copiamos, seguido de la ruta donde lo vamos a pegar, seguido del nuevo nombre o tipo de archivo
+- mv “nombre de archivo” <ruta> → Nos permite mover archivos (cortar y pegar)
+- rm → elimina cualquier archivo, no tiene confirmación ni va a la papelera, lo elimina del todo
+- rmdir → eliminar una carpeta vacia
+- rm -r “nombre de carpeta” → elimina una carpeta con contenido
+- code . → abrir vscode en esa carpeta  (no funciona en mac)
+- clear → limpiar toda la consola
+- tree → nos muestra todo como un arbol
+- ls -la → me muestra una lista con caracteristicas de los archivos de una lista
+- cp  -r → copiar y pegar carpeta completas
+
+-r : recursivo
