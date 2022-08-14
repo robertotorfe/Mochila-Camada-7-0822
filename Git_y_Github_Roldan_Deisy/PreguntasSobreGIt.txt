@@ -1,0 +1,6 @@
+¿Quien invento el sistema de control de versiones en GIT y por que? 
+R// Lo desarrollo Originalmente Linus Torvalds, este fue creado para posibilitar la ramificacion y el etiquetado como pocesos de primera importancia
+¿A quien pertence actualmente GITHUB y por que? 
+R// El 4 de junio de 2018 microsoft compra github ya que esta adopto una nueva estrategia abierta al mundo del software libre y a la integracion con otras plataformas y servicios.
+¿Hay otra forma que no sea la terminal para trabajar con GItHUB? 
+R// Si exisen herramientas originales de linea de comanda y una gran variedad de interfaces
