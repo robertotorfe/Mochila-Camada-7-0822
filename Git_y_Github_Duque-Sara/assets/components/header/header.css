@@ -3,7 +3,7 @@ header{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: black;
+    background-color: rgb(18, 18, 18);
     color: white;
     height: 15vh;
     padding: 0 2rem;

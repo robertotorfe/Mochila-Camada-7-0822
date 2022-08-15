@@ -1,0 +1,49 @@
+.atajos{
+    padding: 1rem 2rem;
+    width: 25vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-fixed{
+    position: fixed;
+    z-index: 100;
+    top: 0;
+}
+
+.atajos h1{
+    color: white;
+    font-size: 40px;
+    width: 20vw;
+    text-align: center;
+}
+
+.btn-atajos{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-atajos button {
+    width: 18vw;
+    margin: 10px 0;
+
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: white;
+}
+
+.btn-atajos button a{
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+}

@@ -12,20 +12,21 @@ a{
 }
 
 .news{
+    overflow:hidden;
+    height: 85vh;
     padding: 2rem 0;
     padding-right: 2rem;
-
-    height: 85vh;
-    background-image: url(https://i.blogs.es/e1852a/code/1366_2000.jpg);
+    color: white;
+    background-image: url(https://images8.alphacoders.com/430/thumb-1920-430944.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
 }
 
-.inicio {
+.git {
     color: rgb(22, 22, 22);
-    overflow-y: auto;
+    overflow-y:auto;
     height: 76vh;
     width: auto;
     padding: 2rem 2rem;
@@ -37,12 +38,26 @@ a{
     border-radius: 10px;
 }
 
-.git h1{
+.cont-1 h1{
     text-align: center;
     margin: 1rem 0;
 }
 
-ul{
-    margin-left: 2rem;
+.cont-1 p{
+    margin: 1rem 0;
 }
 
+li{
+    margin: 1rem 0;
+}
+
+.git img{
+    width: 30vw;
+    margin: 0 1rem;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
