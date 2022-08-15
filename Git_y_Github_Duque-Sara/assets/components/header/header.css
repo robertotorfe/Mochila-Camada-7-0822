@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 15vh;
+    padding: 0 2rem;
+}
+
+.logo-git img{
+    width: 10vw;
+}
+
+.logo-github img{
+    width: 5vw;
+}
+
+.title{
+    text-align: center;
+}
