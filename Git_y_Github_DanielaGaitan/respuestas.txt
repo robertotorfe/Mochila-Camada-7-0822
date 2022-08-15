@@ -1,0 +1,6 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Linux Torvalds
+¿A quién pertenece actualmente Github y por qué?
+es publico
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+si, Terminal en Mac, o el "Command Prompt" o "Powershell"
