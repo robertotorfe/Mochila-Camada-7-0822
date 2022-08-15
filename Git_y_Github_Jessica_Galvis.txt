@@ -1,0 +1,14 @@
+git init :Crear un nuevo repositorio
+git config --global user.name "nombre de usuario" :Establecer el usuario
+git config --global user.email email@email.com :Establecer el email
+git add "nombre del archivo :Añadir Archivos
+git add . :Añadir todos los archivos
+git status :Muestra el estado de los archivos en su repositorio
+git commit -m "mensaje del commit" :Crear Commit
+git push -u origin main :Subir archivo a git hub
+git log :Muestra el historial de Commits
+git branch nuevaBranch :Crea una nuve rama
+git checkout :Salir de la rama
+git pull :Actualizar los archivos contra la branch actual
+git clone url :Traer por primera vez una rama
+
