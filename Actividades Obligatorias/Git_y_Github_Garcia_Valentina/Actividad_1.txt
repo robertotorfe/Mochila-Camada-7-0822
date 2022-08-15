@@ -1,4 +1,4 @@
-Actividad 1
+Actividad 1 - Historia Git y Github 
 
 1. ¿Quién inventó el sistema de control de versión Git y por qué?
 El sistema de versión Git fue creado por Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
