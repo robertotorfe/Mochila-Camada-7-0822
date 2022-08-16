@@ -1,1 +1,0 @@
-Creo carpeta actividades obligatorias
