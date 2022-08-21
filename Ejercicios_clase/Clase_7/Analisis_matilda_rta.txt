@@ -1,0 +1,36 @@
+
+
+Práctica comparativa 
+
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda.
+
+En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior, nos envió de regalo tres procesadores para nuestras diferentes necesidades, yo (Matilda) le pedí uno para poder jugar al tan esperado Cyberpunk 2077, mi pequeño hermano, Marcelo, en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, por último, mi hermano mayor le encargó uno para poder hacer ediciones de video en un programa llamado Wondershare Filmora X.
+
+Estamos confundidos debido a que no los etiqueto con nombres…
+
+Nuestro padre nos envió los siguientes procesadores:
+
+●	Amd Ryzen 5 3600
+●	Amd a8 9600
+●	intel i3 3230
+
+¿Cuál es para cada uno?
+
+1. Matilda: Juego Cyberpunk 2077, le recomendamos Amd Ryzen 5 3600 teniendo en cuenta que necesita un procesador muy eficiente y una memoria grafica que le soporta la complejidad de graficos del juego, sus caracteristicas 
+
+Placa base: Gigabyte X570 Aorus Master. 
+Memoria RAM: G. Skill 16 GB DDR4 a 3600 MHz CL16. 
+Tarjeta gráfica: AMD Radeon RX 5700 XT
+
+2.Marcelo: recomiendo para ejecutar  la suite de Office 2019 la intel i3 3230 que tiene:
+
+2 nucleos 
+Capacidad de caché L3: 4 MBMB, 
+muy optimo para lo que requiere
+3.Hermano Mayo: Ejecución del programa  Filmora le recomiendo el Amd a8 9600 Memoria caché de 2 MB, rápida y volátil.
+Procesador gráfico Radeon R7 Graphics.
+Soporta memoria RAM DDR4.
+Su potencia es de 65 W.
+Cuenta con 4 hilos que favorecen la ejecución de múltiples programas a la vez.
+Procesador innovador desarrollado bajo altos estándares de calidad.
+Con 4 nucleos CPU
