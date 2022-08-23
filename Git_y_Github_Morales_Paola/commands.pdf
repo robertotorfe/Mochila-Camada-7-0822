@@ -1,9 +1,0 @@
-git init -> iniciar nuevo repositorio
-git clone url -> clonar repositorio existente
-git status -> revisar estado del repositorio
-git add . -> agregar todos los archivos al area de stage
-git add file.extension -> agregar un archivo especifico al area de stage
-git commit -m "message" -> captura la instancia de los cambios que estaban
-                           en el area de stage
-git pull -> obtener todos los cambios del repositorio remoto
-git push -> subir los cambios al repositorio remoto
