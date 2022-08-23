@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.news{
+    overflow:hidden;
+    height: 85vh;
+    padding: 2rem 0;
+    padding-right: 2rem;
+    color: black;
+    text-shadow: 1px 1px 20px white;
+    text-shadow: 2px white;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/162/894/557/colorful-computer-keyboards-neon-wallpaper-preview.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+
+.git-commands embed{
+    width: 72vw;
+    height: 75vh;
+}
+
+
+/* ATAJOS */
+.atajos{
+    padding: 1rem 2rem;
+    width: 25vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-fixed{
+    position: fixed;
+    z-index: 100;
+    top: 0;
+}
+
+.atajos h1{
+    color: black;
+    text-shadow: 1px 1px 20px white;
+    text-shadow: 2px white;
+    font-size: 40px;
+    width: 20vw;
+    text-align: center;
+}
+
+.btn-atajos{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-atajos button {
+    width: 18vw;
+    margin: 10px 0;
+
+    background: rgba(86, 86, 86, 0.638);
+    /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); */
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: black;
+    text-shadow: 1px 1px 20px white;
+    
+}
+
+.btn-atajos button a{
+    color: black;
+    text-shadow: 1px 1px 20px white;
+    text-shadow: 2px white;
+    font-weight: 500;
+    font-size: 16px;
+}
