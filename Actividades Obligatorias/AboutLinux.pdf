@@ -1,0 +1,23 @@
+¿Que es un usuario root en Linux?
+R/ En sistemas operativos del tipo Unix, el superusuario o root es el nombre convencional de la cuenta de usuario que posee todos los derechos en todos los modos (monousuario o multiusuario). Normalmente es la cuenta de administrador.
+
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación? 
+R/ Las contraseñas en cuentas root están deshabilitadas por defecto, lo que significa que root no tiene contraseñas. Cuando pide contraseña de administrador, es la contraseña de usuario.
+
+
+¿Cuáles son los procesos típicos de Linux?
+Procesos normales: son los programas que utiliza el usuario y estos están conectados a la terminal (con su nombre de usuario). 
+Procesos daemon: No tienen salida directa a la terminal, por lo que corren en 2º plano. Generalmente los conocemos como servicios. Los requerimientos son procesados a través de puertos y no de la terminal.
+Procesos zombie: O zombie es un proceso que ha completado su ejecución pero aún tiene una entrada en la tabla de procesos.
+
+¿Cómo identificarlos?
+Algunos procesos inician otros procesos, de esta forma se convierten en padres de estos. Para poder ver esta jerarquía podemos utilizar el comando ps que muestra en la última columna como la jerarquía de los procesos y subprocesos está organizada por tabuladores.
+
+Investigar y establecer una contraseña para el usuario root
+R/ En primer lugar, conéctese al servidor por SSH con el usuario por defecto.
+Para ello, utilice el comando que se indica a continuación y establezca una contraseña para el usuario root (por motivos de seguridad, la contraseña no se mostrará mientras la escriba):
+~$ sudo passwd root
+Enter new UNIX password:
+Retype new UNIX password:
+passwd: password updated successfully
