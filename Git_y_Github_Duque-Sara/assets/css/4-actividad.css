@@ -18,7 +18,8 @@ a{
     padding-right: 2rem;
     color: black;
     text-shadow: 1px 1px 20px white;
-    background-image: url(https://p4.wallpaperbetter.com/wallpaper/162/894/557/colorful-computer-keyboards-neon-wallpaper-preview.jpg);
+    text-shadow: 2px white;
+    background-image: url(https://www.omgubuntu.co.uk/wp-content/uploads/2016/10/GOUKlfP.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,8 +50,8 @@ a{
 }
 
 .atajos h1{
-    color: black;
-    text-shadow: 1px 1px 20px white;
+    color: white;
+    text-shadow: none;
     font-size: 40px;
     width: 20vw;
     text-align: center;
@@ -74,14 +75,12 @@ a{
     -webkit-backdrop-filter: blur(4px);
     border-radius: 10px;
     border: 1px solid rgba(255, 255, 255, 0.18);
-    color: black;
-    text-shadow: 1px 1px 20px white;
     
 }
 
 .btn-atajos button a{
-    color: black;
-    text-shadow: 1px 1px 20px white;
+    color: white;
+    text-shadow: none;
     font-weight: 500;
     font-size: 16px;
 }
