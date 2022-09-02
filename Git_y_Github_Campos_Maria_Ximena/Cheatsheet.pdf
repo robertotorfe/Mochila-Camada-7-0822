@@ -1,0 +1,9 @@
+git clone : Clonar un repositorio existente
+git init : Crear un nuevo repositorio local
+git pull : Actualiza los archivos existentes
+git log : Muestra archivos, fechas y commit
+git status : Seguimiento al estado de los archivos 
+git add : Agrega el o los archivos
+git add . : Agrega todos los archivos
+git commit -m "mensaje" : Comitea los cambios hechos
+git push origin master : Envía los cambios al repositorio remoto
