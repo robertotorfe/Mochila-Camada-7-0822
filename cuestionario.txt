@@ -1,0 +1,28 @@
+
+1.	¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? 
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+2.	¿Qué función cumple el hypervisor en la virtualización? 
+Un hipervisor, conocido también como monitor de máquina virtual (VMM), es un software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas.
+
+Conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+En general, hay dos tipos de hipervisores. Los hipervisores de tipo 1, denominados «hipervisores bare metal», se ejecutan directamente en el hardware del host. Los hipervisores de tipo 2, denominados «alojados», se ejecutan como una capa de software sobre un sistema operativo, como otros programas informáticos. 
+
+3.	Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
+
+
+
+4.	Qué tipo de máquina virtual soporta virtualBox?. 
+Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Microsoft Windows, y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS y muchos otros
+
+
+Julieth Rubio
+
+
+
+
+
+		
