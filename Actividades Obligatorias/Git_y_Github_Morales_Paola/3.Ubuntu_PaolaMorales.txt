@@ -1,0 +1,8 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?
+R://Debido a que esto dependede la arquitectura y el cpu similar a donde fue compilado
+2. ¿Qué tipo de máquina virtual es virtualBox?.
+R:// virtual box esta instalada sobre nuestro sistema operativo, por tal motivo es de Tipo 2, esto tiene una desventaja la cual es que su proceso es mas lento.
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+R:// El que una maquina virtual se dañe, no afectaria a las demas ya que son sistemas independientes, actuan como si fueran maquinas separadas una de la otra.
