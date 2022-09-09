@@ -1,0 +1,13 @@
+•	¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Un lenguaje de programación, en palabras simples, es el conjunto de instrucciones a través del cual los humanos interactúan con las computadoras. Un lenguaje de programación nos permite comunicarnos con las computadoras a través de algoritmos e instrucciones escritas en una sintaxis que la computadora entiende e interpreta en lenguaje de máquina. 
+Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador.
+Cada lenguaje de programación, es específico para el código máquina que genera.
+Las máquinas virtuales, tienen que ser exclusivas de ese sistema operativo.
+●	¿Qué tipo de máquina virtual soporta virtualBox?
+VirtualBox es una aplicación que sirve para hacer máquinas virtuales con instalaciones de sistemas operativos. Esto quiere decir que si tienes un ordenador con Windows, GNU/Linux o incluso macOS, puedes crear una máquina virtual con cualquier otro sistema operativo para utilizarlo dentro del que estés usando, en otras palabras, va a permitir instalar otros sistemas operativos o el mismo que ya tienes dentro de tu ordenador.
+Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Microsoft Windows, y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS y muchos otros.
+•	¿Qué función cumple el hypervisor en la virtualización? 
+Un hipervisor, conocido también como monitor de máquina virtual (VMM), es un software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas.
+Cuando el sistema de hardware físico se usa como hipervisor, se denomina "host", y las múltiples máquinas virtuales que utilizan sus recursos se denominan "guests".
+El hipervisor proporciona a cada máquina virtual los recursos que se le habían asignado, y gestiona la programación de ellos en función de los recursos físicos. El hardware físico sigue efectuando las operaciones, por lo que la CPU aún ejecuta las instrucciones de la CPU según lo solicitado por las máquinas virtuales; por ejemplo, mientras el hipervisor gestiona la programación.
+Con un hipervisor, muchos sistemas operativos diferentes pueden funcionar a la par y compartir los mismos recursos de hardware virtualizados. Este es una de las principales ventajas de la virtualización, ya que, sin ella, solo se puede ejecutar un sistema operativo en el hardware. 
