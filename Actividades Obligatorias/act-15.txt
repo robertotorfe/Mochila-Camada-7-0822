@@ -1,0 +1,31 @@
+NOMBRE LIZETH PICO
+
+1. Por que un lenguaje de programacin solo puede utilizarse en algunos sistemas operativos y en otros no?
+Un lenguaje de programacion puede utilizarse en algunos sistemas operativos y en otros no porque no todos los 
+sistemas operativos cuentan con el compilador correspondiente para la interpretacin del lenguaje de programacion.
+ 
+Cualquier lenguaje de programacin puede usarse en un sistema siempre y cuando haya un intrprete o compilador (segun 
+corresponda al lenguaje en cuestin) si es que deseas programar en esa mquina con ese sistema operativo. Si no hay tal 
+intrprete o compilador no podras usar ese lenguaje, en ese sistema operativo.
+ 
+Ademas, por otro lado, es factible utilizar una tcnica llamada cross-compile en donde en una mquina y sistema 
+operativo "X" puedes compilar cdigo objeto (lease, binarios ejecutables) para otra mquina o sistema diferente "Y". Al 
+decir "diferente" puede ser: diferente sistema operativo, diferente procesador y, en casos extremos hasta diferentes 
+arquitecturas de procesador.
+ 
+2. Que tipo de mquina virtual soporta virtualBox?. Entre los sistemas operativos soportados en modo anfitrin se 
+encuentran GNU/Linux, Mac OS X, OS/2 Warp, Microsoft Windows, y Solaris/OpenSolaris, y dentro de ellos es posible 
+virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS, entre otros.
+
+3.Que funcin cumple el hypervisor en la virtualizacion?
+Es una capa de software que se instala sobre la parte fsica del computador (osea el hardware), y su funcin es asignar 
+parte de la memoria, disco rgido , los cpu y otros recursos fsicos.
+
+Sobre la hipervisor podemos crear tantas mquinas virtuales como queramos y cada una funciona como una real.
+
+4. Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
+No, porque cada mquina virtual es totalmente independiente una de la otra, por lo cual cada una de ellas puede 
+ejecutar diferentes sistemas operativos y/o aplicaciones aunque al mismo tiempo se encuentren dentro de un solo 
+equipo fsico. Debido a que cada mquina virtual est aislada de otras mquinas virtualizadas, en caso de ocurrir un 
+bloqueo, problema, reinicio o cuelgue, esto no afecta a las dems mquinas virtuales.
+
