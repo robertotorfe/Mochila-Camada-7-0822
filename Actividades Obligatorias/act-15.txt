@@ -29,3 +29,5 @@ ejecutar diferentes sistemas operativos y/o aplicaciones aunque al mismo tiempo 
 equipo fsico. Debido a que cada mquina virtual est aislada de otras mquinas virtualizadas, en caso de ocurrir un 
 bloqueo, problema, reinicio o cuelgue, esto no afecta a las dems mquinas virtuales.
 
+
+
