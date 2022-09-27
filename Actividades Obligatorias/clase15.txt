@@ -1,0 +1,18 @@
+1. ¿Por qué un lenguaje de programación sólo se puede utilizar en algunos SO y en otros no?
+
+Un lenguaje de programación puede utilizarse en algunos SO y en otros no porque no todos los SO cuentan con el compilador correspondiente para la interpretación del lenguaje de programación.
+Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (según corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese SO. Si no hay tal intérprete o compilador no podrás usar ese lenguaje en ese SO.
+Además por otro lado, es factible utilizar una técnica llamada cross-compile en donde en una máquina y SO "x" puedes compilar el código objeto (lease, binarios ejecutables) para otra máquina o SO "y". Al decir "diferente" puede ser: diferente SO, diferente procesador y, en casos extremos hasta diferentes arquitecturas de procesador.
+
+2. ¿Qué tipo de máquina soporta VirtualBox?
+
+Entre los SO soportados en modo anfitrión se encuentran GNU/Linux, MAC OS X, OS/2 Warp, Microsoft Windows, y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los SO FreeBSD, OpenBSD, GNU/Linux, OS/2 Warp, Windows, Solaris, MS-DOS, entre otros.
+
+3. ¿Qué función cumple el hypervisor en la virtualización?
+
+Es una capa de software que se instala sobre la parte física del computador (o sea el hardware), y su función es asignar parte de la memoria, disco rígido, la CPU y otros recursos físicos.
+Sobre el hypervisor podemos crear tantas MV como queramos y cada una funciona como una real.
+
+4. Si tengo más de una MV instalada, y una se rompe, ¿esto afecta a las demás?¿Por qué?
+
+No, porque cada MV es totalmente independiente una de la otra, por lo cual cada una de ellas puede ejecutar diferentes SO y/o aplicaciones aunque al mismo tiempose encuentren dentro de un solo equipo físico. Debido a que cada MV está aislada de otras MV, en caso de ocurrir un bloqueo, problema, reinicio o cuelgue, esto no afecta a las demás MV.
